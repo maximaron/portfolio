@@ -1,0 +1,5 @@
+.car_img {
+    width: auto;
+    height: 500px;
+    object-fit: contain;
+}
